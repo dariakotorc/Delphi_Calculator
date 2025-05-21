@@ -1,0 +1,62 @@
+# Delphi binary files
+*.dcu
+*.exe
+*.dll
+*.bpl
+*.dcp
+*.dsk
+*.~*
+*.bpg
+*.bpi
+*.obj
+*.map
+*.tds
+*.res
+*.rsm
+*.identcache
+*.local
+
+# Backup and temp files
+*.bak
+*.tmp
+*.dof
+*.cfg
+*.drc
+*.ddp
+*.pch
+
+# Delphi auto-generated folders
+__history/
+__recovery/
+Win32/Debug/
+Win32/Release/
+x64/Debug/
+x64/Release/
+
+# Version control folders
+.git/
+.svn/
+
+# OS-specific files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Code insight files
+.ipch/
+*.aps
+
+# Delphi project-specific cache
+*.stat
+*.log
+*.tvsconfig
+
+# IDE-specific files
+*.ide
+*.groupproj
+*.groupproj.local
+*.tvsconfig
+*.vscode/
+
+# JetBrains Rider / Embarcadero
+.idea/
